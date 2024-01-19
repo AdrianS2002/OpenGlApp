@@ -1,0 +1,67 @@
+# Blender 4.0.1 MTL File: 'scena.blend'
+# www.blender.org
+
+newmtl 13082_Randall_Cattle_v1
+Ns 21.000006
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd vaca/13082_Randall_Cattle_v1_diff.jpg
+map_Ks D:/Facultate/ANULIII/SemI/PG/obiecte/vaca/13082_Randall_Cattle_v1_spec.jpg
+map_Bump D:/Facultate/ANULIII/SemI/PG/obiecte/vaca/13082_Randall_Cattle_v1_Normal Bump.jpg
+
+newmtl 13___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cal/10026_Horse_v01_L3.123cf7625b3f-e79f-4633-9dc6-46d06c7bb985/Horse_v01.jpg
+
+newmtl Australian_Cattle_Dog
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.180000 0.180000 0.180000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd caine/Australian_Cattle_Dog_dif.jpg
+map_Bump D:/Facultate/ANULIII/SemI/PG/obiecte/caine/Australian_Cattle_Dog_bump.jpg
+
+newmtl Cat
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Pisica/Cat_diffuse.jpg
+map_Bump D:/Facultate/ANULIII/SemI/PG/obiecte/Pisica/Cat_bump.jpg
+
+newmtl Cat.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd PisicaNeagra/Cat_diffuse.jpg
+map_Bump D:/Facultate/ANULIII/SemI/PG/obiecte/PisicaNeagra/Cat_bump.jpg
+
+newmtl lambert13SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Casa/FarmhouseTexture.jpg
+map_Bump D:/Facultate/ANULIII/SemI/PG/obiecte/Casa/FarmhouseTextureBumpMap.jpg -bm 0.012
