@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(198,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(199,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(203,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(204,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(205,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(206,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 1789 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProiectPG.vcxproj -> D:\Facultate\ANULIII\SemI\PG\ProiectPG\x64\Release\ProiectPG.exe

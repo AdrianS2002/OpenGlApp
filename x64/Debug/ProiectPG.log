@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(198,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(199,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(203,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(204,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(205,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\ANULIII\SemI\PG\ProiectPG\ProiectPG\main.cpp(206,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ProiectPG.vcxproj -> D:\Facultate\ANULIII\SemI\PG\ProiectPG\x64\Debug\ProiectPG.exe
